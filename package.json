@@ -1,0 +1,16 @@
+{
+  "name": "module3-e2e",
+  "version": "0.0.1",
+  "description": "e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mew",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "eslint": "^8.32.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
